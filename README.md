@@ -1,8 +1,9 @@
-[![MasterHead](https://assets.euromoneydigital.com/dims4/default/4fc5c7f/2147483647/strip/true/crop/1000x614+0+0/resize/840x516!/quality/90/?url=http%3A%2F%2Feuromoney-brightspot.s3.amazonaws.com%2Ff4%2F05%2F0e364624471396f68b5ea3c3b317%2Fadobestock-ai-brain.jpg)](https://rishavchanda.io)
+[![MasterHead](https://uwo.ca/sci/datascience/img/Placeholders/Data%20Science%20Slide.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Youssef Dahmou</h1>
 <h3 align="center">🚀 Data Scientist | Data Engineer | Cloud Computing Engineer | Java Developer 📊 Leveraging data to drive insights and decision-making. 💻 Building robust data pipelines and deploying ML models. ☁️ Cloud-native solutions architect with a focus on AWS. ☕ Java enthusiast crafting efficient and scalable code. Let's collaborate and transform data into value!</h3>
   <h3> As a multifaceted professional, I excel in the realms of Data Science, Data Engineering, Cloud Computing, and Java Development. With a passion for turning data into actionable insights, I leverage my expertise to design and implement robust data pipelines, harness the power of cloud platforms, and develop efficient, high-performance Java applications. My commitment to innovation and my holistic approach to solving complex problems drive my journey in the tech world. Explore my diverse skill set to witness the synergy of data-driven solutions and software craftsmanship. 👨‍💻 #DataScience #CloudComputing #JavaDev</h3>
-<img align="right" alt="Coding" width="400" src="https://www.devopsinstitute.com/wp-content/uploads/2021/05/iStock-1277731016-scaled.jpg">
+
+[![MasterHead](https://assets-global.website-files.com/5b6df8bb681f89c158b48f6b/5f2a7c5717d59c3f5f4fd017_content-img.jpg)](https://rishavchanda.io)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefdahmou&label=Profile%20views&color=0e75b6&style=flat" alt="youssefdahmou" /> </p>
 
