@@ -1,8 +1,7 @@
 [![MasterHead](https://uwo.ca/sci/datascience/img/Placeholders/Data%20Science%20Slide.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Youssef Dahmou</h1>
 <h3 align="center">🚀 Data Scientist | Data Engineer | Cloud Computing Engineer | Java Developer 📊 Leveraging data to drive insights and decision-making. 💻 Building robust data pipelines and deploying ML models. ☁️ Cloud-native solutions architect with a focus on AWS. ☕ Java enthusiast crafting efficient and scalable code. Let's collaborate and transform data into value!</h3>
-[![MasterHead](https://assets-global.website-files.com/5b6df8bb681f89c158b48f6b/5f2a7c5717d59c3f5f4fd017_content-img.jpg)](https://rishavchanda.io)
-
+[![MasterHead](https://assets-global.website-files.com/5b6df8bb681f89c158b48f6b/5f2a7c5717d59c3f5f4fd017_content-img.jpg)](https://rishavchanda.io).
 
 - 🌱 I’m currently learning **Cloud computing.**
 
